@@ -1,0 +1,7 @@
+verifier-starter:
+  logsAndPasswords:
+    test: test
+    test@gmail.com: 123
+    'test@mail.ru': 321
+check:
+  isAvailable: true
